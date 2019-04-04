@@ -11,3 +11,4 @@ My completed machine learning projects. Detailed notes are in each IPython noteb
     * Predicts 6 different classes of negitivity in comments: toxic, severe toxic, obscene,threat,insult and identity hate
     * 96.8% accuracy on testing set
     * [Kaggle Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
+    * [Demo App](https://vulgarity-detector.herokuapp.com/)
